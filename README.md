@@ -44,7 +44,7 @@ panorama_stitcher/
 ### 1. Clone / download the project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ash0t-t/panorama-stitching.git
 cd panorama_stitcher
 ```
 
